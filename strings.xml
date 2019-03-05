@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cake Translator</string>
+    <string name="Q1">Which bear is best?</string>
+    <string name="A1">black bear</string>
+    <string name="H1">Fact. Bears eat beets. Bears. Beets. Battlestar Galactica.</string>
+</resources>
